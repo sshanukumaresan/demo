@@ -4,4 +4,4 @@ df -h
 ls -l
 ps -a
 ps -aef
-
+uname -a
